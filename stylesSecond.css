@@ -1,0 +1,62 @@
+body {
+	background-color: slategray;
+	color: aliceblue;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	border: none;
+	margin: 0px;
+}
+
+#header {
+	background-color: black;
+	text-align: center;
+}
+#nav {
+	background-color: azure;
+	text-align: center;
+	font-size: 1.5em;
+	margin: 0px;
+}
+
+article {
+	background-color: steelblue;
+	width: auto;
+	height: 1500px;
+	margin: 0px;
+}
+
+section {
+	margin: 0px;
+}
+footer {
+	background-color: black;
+	text-align: center;
+	font-size: 1.5em;
+	height: 1.5em;
+	margin: 0px;
+}
+
+p {
+	color: turquoise;
+	background-color: steelblue;
+	border: 2px solid;
+	border-radius: 30px;
+	padding-left: 46px;
+}
+
+.plain{
+	margin: 40px;
+}
+progress{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+label{
+	margin-left: 40px;
+}
+#nav a:hover {
+	color: red;
+}
