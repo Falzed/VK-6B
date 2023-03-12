@@ -46,14 +46,14 @@ article {
 	margin: 0px;
 	float: left;
 	width: 400px;
-	height: 300px;
+	height: 400px;
 	font-size: 1.25em;
 	clear: left;
 }
 
 aside {
 	padding-left: 500px;
-	height: 600px;
+	height: 700px;
 	background-color: #c5ccd3;
 }
 

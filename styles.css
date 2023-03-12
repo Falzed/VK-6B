@@ -44,7 +44,7 @@ h1 {
 	height: 500px;
 	font-size: 1.25em;
 }
-article {
+#article {
 	background-color: steelblue;
 	width: auto;
 	height: 500px;
@@ -53,7 +53,7 @@ article {
 p {
 	padding-left: 216px;
 }
-section {
+#section {
 	margin: 0px;
 }
 footer {
